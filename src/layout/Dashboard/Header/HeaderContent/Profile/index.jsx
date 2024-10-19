@@ -124,9 +124,9 @@ export default function Profile() {
                         <Stack direction="row" spacing={1.25} alignItems="center">
                           <Avatar alt="profile user" src={avatar1} sx={{ width: 32, height: 32 }} />
                           <Stack>
-                            <Typography variant="h6">John Doe</Typography>
+                            <Typography variant="h6">Vinay Sagar SD</Typography>
                             <Typography variant="body2" color="text.secondary">
-                              UI/UX Designer
+                              Company
                             </Typography>
                           </Stack>
                         </Stack>

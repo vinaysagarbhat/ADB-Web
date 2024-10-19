@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 
 // project import
 import MainCard from 'components/MainCard';
-import OrdersTable from './OrdersTable';
+import OrdersTable from './adb-devices-table';
 
 // ==============================|| DASHBOARD - DEFAULT ||============================== //
 
