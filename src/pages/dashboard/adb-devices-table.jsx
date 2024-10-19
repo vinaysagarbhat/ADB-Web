@@ -217,7 +217,9 @@ export default function AdbDevicesTable() {
                         spacing={1}
                       >
                         <Button
-                          onClick={() => {}}
+                          onClick={() => {
+                            setOpen(true)
+                          }}
                           variant="outlined"
                           size="small"
                           startIcon={<RightCircleOutlined />}
